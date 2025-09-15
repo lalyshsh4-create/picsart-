@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "Picsart",
+    "packageName": "com.picsart.studio",
+    "versionCode": 28.3.6,
+    "updateUrl": "https://Telegram.me/fotball_kora",
+    "title": "NEW version 28.3.6",
+    "description": "إصدار التطبيق الخاص بك قديم جدًا ولم يعد مدعومًا. يرجى التحديث إلى أحدث إصدار.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2025-09-01",
+    "closeButtonText": "Channel",
+    "updateButtonText": "اGET UPDATED "
+  }
+]
